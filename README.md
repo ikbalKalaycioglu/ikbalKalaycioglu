@@ -4,7 +4,7 @@
 <img  align="right" alt="İkbal" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikbalkalaycioglu&label=Profile%20views&color=0e75b6&style=flat" alt="ikbalkalaycioglu" /> </p>
 
-- 🔭 I’m currently working on [MovieApp](https://github.com/ikbalKalaycioglu/Movie-App-BackEnd)
+- 🔭 I’m currently working on Javascript
 
 - 🌱 I’m currently learning **Asp.Net Core, Angular**
 
