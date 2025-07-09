@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İkbal Kalaycıoglu</h1>
+<h1 align="center">Hi 👋, I'm İkbal Kalaycioglu</h1>
 <h3 align="center">A passionate fullStack developer from Turkey</h3>
 
 <img  align="right" alt="İkbal" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
